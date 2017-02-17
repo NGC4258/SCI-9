@@ -15,8 +15,7 @@
 https://developers.facebook.com/  
 
 3. Prepare stored place, only support PostgreSQL
-  # Please refer below to get PostgreSQL  
-    https://www.postgresql.org/download/linux/ubuntu/  
+  https://www.postgresql.org/download/linux/ubuntu/  
 
 4. Install packages, the example is Ubuntu Xenial as following:  
 > sudo apt install git python-pip libffi-dev libssl-dev
